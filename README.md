@@ -52,6 +52,8 @@ Diffusion can be controlled to simulate different materials and surfaces within 
 
 ## Implementation in Reverb Algorithms
 
+![image](https://github.com/JDSherbert/Procedural-Reverb/assets/43964243/2a08b4d3-6494-45ca-8295-d4e68945f72d)
+
 #### Delay Lines
 Reverb often involves using multiple delay lines to simulate the reflections of sound.
 Each delay line corresponds to a different reflection, and the feedback and decay parameters control the persistence and decay rate of these reflections.
@@ -68,6 +70,8 @@ All-pass filters modify the phase of the signal without changing its amplitude, 
 -----------------------------------------------------------------------
 
 ## Diffusing Delay into a Mix
+
+![image](https://github.com/JDSherbert/Procedural-Reverb/assets/43964243/d3558b46-0901-47ee-999b-ffc455852c06)
 
 #### Creating Depth
 Adding a subtle amount of reverb to individual elements in a mix can create a sense of depth and space.
@@ -98,6 +102,9 @@ Balancing computational efficiency with audio quality is a continuous challenge.
 #### 3. User Control:
 Reverb plugins often provide a range of parameters for user control, but finding the right settings requires a good understanding of the underlying principles.
 In conclusion, reverb is a versatile and powerful tool in audio processing, influencing the spatial and emotional characteristics of a sound. The nuanced control of early reflections, pre-delay, and diffusion, along with the strategic use of reverb in mixing, contributes to the overall richness and depth of the audio experience. Whether creating a realistic simulation of a concert hall or adding a touch of ambiance to a recording, understanding the intricacies of reverb is fundamental for audio engineers and producers.
+
+#### 4. Reduces Clarity + Muddies a Mix
+Due to the nature of reverb, it introduces "noise" into a mix which should be carefully monitored and balanced.
 
 -----------------------------------------------------------------------
 
