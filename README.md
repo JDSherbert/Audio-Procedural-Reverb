@@ -28,7 +28,7 @@ The procedural reverb implemented here is a basic example and serves as an intro
 
 -----------------------------------------------------------------------
 
-### Key Components of Procedural Reverb
+## Key Components of Procedural Reverb
 
 ![image](https://github.com/JDSherbert/Procedural-Reverb/assets/43964243/602a5d56-3dd6-4c27-b097-08136c468f53)
 
@@ -50,7 +50,7 @@ Diffusion can be controlled to simulate different materials and surfaces within 
 
 -----------------------------------------------------------------------
 
-## Implementation in Reverb Algorithms:
+## Implementation in Reverb Algorithms
 
 #### Delay Lines
 Reverb often involves using multiple delay lines to simulate the reflections of sound.
@@ -67,7 +67,7 @@ All-pass filters modify the phase of the signal without changing its amplitude, 
 
 -----------------------------------------------------------------------
 
-## Diffusing Delay into a Mix:
+## Diffusing Delay into a Mix
 
 #### Creating Depth
 Adding a subtle amount of reverb to individual elements in a mix can create a sense of depth and space.
@@ -85,7 +85,7 @@ By strategically placing elements in the stereo field and applying different rev
 
 -----------------------------------------------------------------------
 
-## Challenges in Reverb Design:
+## Challenges in Reverb Design
 
 #### 1. Realism vs. Artistic Expression:
 Designing realistic reverb involves complex algorithms and modeling of physical spaces.
