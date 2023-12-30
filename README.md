@@ -26,6 +26,8 @@ Procedural reverb is a method of simulating this complex phenomenon algorithmica
 
 The procedural reverb implemented here is a basic example and serves as an introduction to the concept. In a more advanced setting, procedural reverb algorithms often involve more intricate mathematical models, multiple delay lines, feedback networks, and various types of filtering to mimic the complexity of real-world reverberation.
 
+![image](https://github.com/JDSherbert/Procedural-Reverb/assets/43964243/602a5d56-3dd6-4c27-b097-08136c468f53)
+
 ### Key Components of Procedural Reverb
 
 #### 1. Delay Line: 
