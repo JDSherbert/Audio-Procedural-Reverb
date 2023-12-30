@@ -14,7 +14,7 @@ public:
 
 private:
 
-    double decayFactor;
-    int delayLength;
-    std::vector<double> delayBuffer;
+    double decayFactor; // Decay factor for each delayed sample
+    int delayLength; // Length of the delay buffer
+    std::vector<double> delayBuffer; // Buffer to store delayed samples
 };
