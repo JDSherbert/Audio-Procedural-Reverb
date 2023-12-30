@@ -5,7 +5,7 @@
 
 #include "ProceduralReverb.h"
 
-// Simple function to generate a simple input signal (for demonstration purposes)
+// Function to generate a simple input signal (for demonstration purposes)
 double GenerateInputSignal(double frequency, double time)
 {
     return sin(2.0 * M_PI * frquency * time);
