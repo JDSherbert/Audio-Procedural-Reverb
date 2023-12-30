@@ -56,7 +56,7 @@ Diffusion can be controlled to simulate different materials and surfaces within 
 Reverb often involves using multiple delay lines to simulate the reflections of sound.
 Each delay line corresponds to a different reflection, and the feedback and decay parameters control the persistence and decay rate of these reflections.
 
-#### 2Feedback Networks
+#### Feedback Networks
 Feedback networks play a crucial role in simulating the ongoing reflections in a space.
 A portion of the output is fed back into the input, creating a continuous interplay of reflections.
 Careful tuning of feedback parameters is necessary to avoid excessive buildup and unnatural artifacts.
