@@ -23,7 +23,7 @@ int main()
     for (int i = 0; i < 1000; ++i) 
     {
         // Process input signal with reverb
-        double outputSignal = reverb.processSample(GenerateInputSignal(44.0f, i / 44100.0f));
+        double outputSignal = reverb.processSample(GenerateInputSignal(440.0f, i / 44100.0f));
         /* In the context of this example, we're generating a sinusoidal signal with a frequency of 440.0 Hertz;
          * this division scales the loop index to represent time in seconds. 
          * The formula for calculating the angle (argument) of the sine function is typically given as 2 * π * frequency * time. 
