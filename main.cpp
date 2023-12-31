@@ -8,7 +8,7 @@
 // Function to generate a simple input signal (for demonstration purposes)
 double GenerateInputSignal(double frequency, double time)
 {
-    return sin(2.0 * M_PI * frquency * time);
+    return sin(2.0 * M_PI * frequency * time);
 }
 
 int main() 
