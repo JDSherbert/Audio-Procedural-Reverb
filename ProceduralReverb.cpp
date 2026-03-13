@@ -64,6 +64,7 @@ void Sherbert::ProceduralReverb::reset()
  
 void Sherbert::ProceduralReverb::setDecayFactor(float newDecayFactor)
 {
+    // Limit to 0.0f and < 1.0f to prevent infinite decaying
     decayFactor = std::clamp(newDecayFactor, 0.0f, 0.9999f);
     reset();
 }
