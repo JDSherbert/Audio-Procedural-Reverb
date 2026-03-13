@@ -1,4 +1,4 @@
-![image](https://github.com/JDSherbert/Procedural-Reverb/assets/43964243/86be8436-4593-40d4-bdef-885ac45b1d58)
+<img width="838" height="323" alt="image" src="https://github.com/user-attachments/assets/dc565e9c-b1c2-4506-b64c-e314ed481c29" />
 
 # Audio: Procedural Reverb
 
